@@ -1,4 +1,8 @@
 #include <iostream>
-int main() {
-    std::cout << "does it workkkkk";
+
+int main()
+{
+  int a = 0;
+  std::cin >> a;
+  std::cout << a;
 }
